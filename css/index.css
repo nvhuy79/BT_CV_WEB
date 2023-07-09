@@ -1,0 +1,65 @@
+body{
+    background-image: url(../images/admin_background.jpg);
+}
+.navbar{
+    padding: 20px;
+}
+.navbar .btn{
+    width: 120px;
+    
+}
+h1{
+    color: white;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    margin-top: 5%;
+<<<<<<< HEAD
+}
+.navbar {
+    padding-top: 15px;
+}
+.navbar .btn{
+    margin-left: 15px;
+    width: 120px;
+=======
+>>>>>>> d6f1ed2ac354368baae3c33842206b99c2630c45
+}
+#intro {
+    display: flex;
+    text-align: center;
+<<<<<<< HEAD
+    margin-top: 12%;
+=======
+    margin-top: 0;
+>>>>>>> d6f1ed2ac354368baae3c33842206b99c2630c45
+}
+#intro .container .card img{
+    border: 1px solid #ffffff ;
+    padding: 7px;
+    border-radius:50%;
+    height: 180px;
+    width: 180px;
+}
+#intro .container .card{
+    background: rgba(199, 187, 187, 0.5);
+    border-radius: 25px;
+}
+#intro .container .row{
+    padding: 15px;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+#intro .container .btn{
+    width: 200px;
+}
+#intro .container .col-lg-4{
+    justify-content: center;
+    padding-left: 70px;
+}
+#intro .container .card-text{
+    font-size: 20px;
+    letter-spacing: 2.5px;
+}
+#intro .container .card-title{
+    font-size: 24px;
+}
